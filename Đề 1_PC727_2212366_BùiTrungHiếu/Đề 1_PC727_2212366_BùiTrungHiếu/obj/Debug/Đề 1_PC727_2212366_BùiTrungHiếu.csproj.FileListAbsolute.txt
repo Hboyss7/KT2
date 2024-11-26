@@ -1,0 +1,11 @@
+Z:\Đề 1_PC727_2212366_BùiTrungHiếu\Đề 1_PC727_2212366_BùiTrungHiếu\bin\Debug\Đề 1_PC727_2212366_BùiTrungHiếu.exe.config
+Z:\Đề 1_PC727_2212366_BùiTrungHiếu\Đề 1_PC727_2212366_BùiTrungHiếu\bin\Debug\Đề 1_PC727_2212366_BùiTrungHiếu.exe
+Z:\Đề 1_PC727_2212366_BùiTrungHiếu\Đề 1_PC727_2212366_BùiTrungHiếu\bin\Debug\Đề 1_PC727_2212366_BùiTrungHiếu.pdb
+Z:\Đề 1_PC727_2212366_BùiTrungHiếu\Đề 1_PC727_2212366_BùiTrungHiếu\obj\Debug\Đề 1_PC727_2212366_BùiTrungHiếu.csproj.AssemblyReference.cache
+Z:\Đề 1_PC727_2212366_BùiTrungHiếu\Đề 1_PC727_2212366_BùiTrungHiếu\obj\Debug\Đề_1_PC727_2212366_BùiTrungHiếu.Form1.resources
+Z:\Đề 1_PC727_2212366_BùiTrungHiếu\Đề 1_PC727_2212366_BùiTrungHiếu\obj\Debug\Đề_1_PC727_2212366_BùiTrungHiếu.Properties.Resources.resources
+Z:\Đề 1_PC727_2212366_BùiTrungHiếu\Đề 1_PC727_2212366_BùiTrungHiếu\obj\Debug\Đề 1_PC727_2212366_BùiTrungHiếu.csproj.GenerateResource.cache
+Z:\Đề 1_PC727_2212366_BùiTrungHiếu\Đề 1_PC727_2212366_BùiTrungHiếu\obj\Debug\Đề 1_PC727_2212366_BùiTrungHiếu.csproj.CoreCompileInputs.cache
+Z:\Đề 1_PC727_2212366_BùiTrungHiếu\Đề 1_PC727_2212366_BùiTrungHiếu\obj\Debug\Đề 1_PC727_2212366_BùiTrungHiếu.exe
+Z:\Đề 1_PC727_2212366_BùiTrungHiếu\Đề 1_PC727_2212366_BùiTrungHiếu\obj\Debug\Đề 1_PC727_2212366_BùiTrungHiếu.pdb
+Z:\Đề 1_PC727_2212366_BùiTrungHiếu\Đề 1_PC727_2212366_BùiTrungHiếu\obj\Debug\Đề_1_PC727_2212366_BùiTrungHiếu.QuanLyMonHoc.resources
